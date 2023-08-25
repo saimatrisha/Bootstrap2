@@ -1,0 +1,24 @@
+.box{
+	min-height: 50px;
+	background-color: purple;
+}
+.box h1{
+		font-family: 'Playfair Display', serif;
+		font-weight: 400;
+		font-size: 50px;
+		color: black;
+
+}
+.box-1{
+	margin-top: 10px;
+	min-height: 80px;
+	background-color: purple;
+}
+.container-2{
+	padding: 0 30px;
+	margin-top:15px;
+}
+.c-alert{
+	background-color: hotpink;
+	color: purple;
+}
